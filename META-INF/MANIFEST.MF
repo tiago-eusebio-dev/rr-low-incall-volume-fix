@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: JI97C8cW14Pf9ZyAiBmub0r6YO8=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: .gitignore
+SHA1-Digest: Z6liT3AKoj++3iiITIjpgcqJLAM=
+
+Name: .gitattributes
+SHA1-Digest: krIuknhJJGABJI/Ek9saZiEVXqQ=
+
+Name: module.prop
+SHA1-Digest: SAhjkvD8d6neR/Kkroqtz6J7rHo=
+
+Name: common/system.prop
+SHA1-Digest: muuKHExVKQKG8iXKLpOYQM6y1ZQ=
+
+Name: README.md
+SHA1-Digest: OQq7TAnX8jDNdW1JcJb7BY93U3E=
+
+Name: config.sh
+SHA1-Digest: 692bbq5EuJJFhfRvxNa37v7FrhU=
+
+Name: common/service.sh
+SHA1-Digest: hCOn0sjc2mEMqqqcb7TFt4BEcVM=
+
+Name: common/post-fs-data.sh
+SHA1-Digest: osm2UZb1HcoYrBwtuaJQnRT9/2M=
+
+Name: changelog.txt
+SHA1-Digest: eMd396uetM804Nf8QbhxkVUzsOk=
+
+Name: system/etc/calibration_cad.xml
+SHA1-Digest: n8e/fDDkAjrV+MZk3tZgX8uKpuE=
+

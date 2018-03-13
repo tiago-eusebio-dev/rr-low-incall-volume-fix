@@ -1,0 +1,7 @@
+id=rr-low-incall-volume-fix
+name=RR Low InCall Volume Fix
+version=v1.0
+versionCode=1
+author=tfae
+description=Fixes low in call volume on ResurrectionRemix
+minMagisk=1500
