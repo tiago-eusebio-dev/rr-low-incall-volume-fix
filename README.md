@@ -1,5 +1,7 @@
 ## Description
-Fixes low in call volume on ResurrectionRemix
+Fixes low in call volume on ResurrectionRemix.
+
+Tested on OnePlus 3, OnePlus 3T and Xiaomi Mi4c on both Android Nougat (7.x) & Android Oreo (8.1).
 
 #### Current Version
 1.0
