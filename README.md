@@ -7,8 +7,8 @@ Tested on OnePlus 3, OnePlus 3T and Xiaomi Mi4c on both Android Nougat (7.x) & A
 
 
 ## Changelog
-* v3 (18.11.2018) - Make the version to be the same as the versionCode
-* v1.1 (05.092018) - Update to Magisk v17000 template
+* v4 (18.11.2018) - Make the version to be the same as the versionCode
+* v1.1 (05.09.2018) - Update to Magisk v17000 template
 * v1.0 (13.03.2018) - Initial release
 
 
@@ -18,7 +18,7 @@ Tested on OnePlus 3, OnePlus 3T and Xiaomi Mi4c on both Android Nougat (7.x) & A
 
 
 ## Links
-* [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/magisk-sweep2sleep-enabler-v3-t3868515)
+* [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/magisk-rr-low-incall-volume-fix-v4-t3868519/post78190423#post78190423)
 * [![Magisk](https://img.shields.io/badge/Magisk-v17%2B-brightgreen.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 
 
