@@ -27,4 +27,4 @@ Tested on OnePlus 3, OnePlus 3T and Xiaomi Mi4c on both Android Nougat (7.x) & A
 * <a href="https://forum.xda-developers.com/member.php?u=4470081">topjohnwu@xda</a> for developing Magisk
 
 
-Copyright (C) 2018 <a href="https://forum.xda-developers.com/member.php?u=6415870">tfae@xda</a> (tfaeusebio@gmail.com)
+Copyright (C) 2019 <a href="https://forum.xda-developers.com/member.php?u=6415870">tfae@xda</a> (tfaeusebio@gmail.com)
