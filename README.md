@@ -7,7 +7,8 @@ Tested on OnePlus 3, OnePlus 3T and Xiaomi Mi4c on both Android Nougat (7.x) & A
 
 
 ## Changelog
-* v4 (18.11.2018) - Make the version to be the same as the versionCode
+* v5   (06.05.2019) - Update to Magisk v18100 template
+* v4   (18.11.2018) - Make the version to be the same as the versionCode
 * v1.1 (05.09.2018) - Update to Magisk v17000 template
 * v1.0 (13.03.2018) - Initial release
 
