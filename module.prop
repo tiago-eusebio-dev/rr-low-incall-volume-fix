@@ -1,6 +1,6 @@
 id=rr-low-incall-volume-fix
 name=RR Low InCall Volume Fix
-version=v5
-versionCode=5
+version=v6
+versionCode=6
 author=tfae
 description=Fixes low in call volume on ResurrectionRemix

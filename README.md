@@ -3,10 +3,11 @@ RR Low InCall Volume Fix
 
 Fixes low in call volume on ResurrectionRemix by incresing voice headset's RX0 Digital Volume to 97.
 
-Tested on OnePlus 3, OnePlus 3T and Xiaomi Mi4c on both Android Nougat (7.x) & Android Oreo (8.1).
+Tested on OnePlus 3, OnePlus 3T and Xiaomi Mi4c on both Android Nougat (7.x), Android Oreo (8.1) and Android Pie (9).
 
 
 ## Changelog
+* v6   (18.06.2019) - Update to latest mixer_paths_tasha.xml
 * v5   (06.05.2019) - Update to Magisk v18100 template
 * v4   (18.11.2018) - Make the version to be the same as the versionCode
 * v1.1 (05.09.2018) - Update to Magisk v17000 template
