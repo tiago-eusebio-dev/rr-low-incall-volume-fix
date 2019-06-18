@@ -1,7 +1,7 @@
 RR Low InCall Volume Fix
 ==========
 
-Fixes low in call volume on ResurrectionRemix.
+Fixes low in call volume on ResurrectionRemix by incresing voice headset's RX0 Digital Volume to 97.
 
 Tested on OnePlus 3, OnePlus 3T and Xiaomi Mi4c on both Android Nougat (7.x) & Android Oreo (8.1).
 
