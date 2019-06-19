@@ -21,7 +21,7 @@ Tested on OnePlus 3, OnePlus 3T and Xiaomi Mi4c on both Android Nougat (7.x), An
 
 ## Links
 * [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/magisk-rr-low-incall-volume-fix-v4-t3868519/post78190423#post78190423)
-* [![Magisk](https://img.shields.io/badge/Magisk-18%2B-00B39B.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+* [![Magisk](https://img.shields.io/badge/Magisk-19%2B-00B39B.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 
 
 ## Credits
