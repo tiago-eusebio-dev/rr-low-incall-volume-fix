@@ -122,10 +122,10 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  ui_print "*************************************"
-  ui_print "     RR Low InCall Volume Fix v5     "
+  ui_print "**********************************"
+  ui_print "     RR Low InCall Volume Fix     "
   ui_print "             tfae @ XDA              "
-  ui_print "*************************************"
+  ui_print "**********************************"
 }
 
 # Copy/extract your module files into $MODPATH in on_install.
